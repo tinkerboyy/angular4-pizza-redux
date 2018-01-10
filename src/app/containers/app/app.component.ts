@@ -16,7 +16,7 @@ import { Component } from '@angular/core';
         <router-outlet></router-outlet>
       </div>
       <div class="app__footer">
-        <p>&copy; Ultimate Pizza Inc.</p>
+        <p>&copy; Pizza Inc.</p>
       </div>
     </div>
   </div>
